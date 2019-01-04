@@ -2,8 +2,10 @@ Destinations
 --------------
 - Hawaii
 - Brisbane
+- Adelaide
 
 Dates
 --------------
 - Q1 2019
 - Q2 2019
+- Q3 2019
